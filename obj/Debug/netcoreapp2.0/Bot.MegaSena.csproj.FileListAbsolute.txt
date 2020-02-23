@@ -1,0 +1,11 @@
+C:\Users\augus\Documents\Bot\Bot.MegaSena\bin\Debug\netcoreapp2.0\Bot.MegaSena.deps.json
+C:\Users\augus\Documents\Bot\Bot.MegaSena\bin\Debug\netcoreapp2.0\Bot.MegaSena.runtimeconfig.json
+C:\Users\augus\Documents\Bot\Bot.MegaSena\bin\Debug\netcoreapp2.0\Bot.MegaSena.runtimeconfig.dev.json
+C:\Users\augus\Documents\Bot\Bot.MegaSena\bin\Debug\netcoreapp2.0\Bot.MegaSena.dll
+C:\Users\augus\Documents\Bot\Bot.MegaSena\bin\Debug\netcoreapp2.0\Bot.MegaSena.pdb
+C:\Users\augus\Documents\Bot\Bot.MegaSena\obj\Debug\netcoreapp2.0\Bot.MegaSena.csproj.CoreCompileInputs.cache
+C:\Users\augus\Documents\Bot\Bot.MegaSena\obj\Debug\netcoreapp2.0\Bot.MegaSena.AssemblyInfoInputs.cache
+C:\Users\augus\Documents\Bot\Bot.MegaSena\obj\Debug\netcoreapp2.0\Bot.MegaSena.AssemblyInfo.cs
+C:\Users\augus\Documents\Bot\Bot.MegaSena\obj\Debug\netcoreapp2.0\Bot.MegaSena.dll
+C:\Users\augus\Documents\Bot\Bot.MegaSena\obj\Debug\netcoreapp2.0\Bot.MegaSena.pdb
+C:\Users\augus\Documents\Bot\Bot.MegaSena\obj\Debug\netcoreapp2.0\Bot.MegaSena.csprojResolveAssemblyReference.cache
